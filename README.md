@@ -44,5 +44,5 @@ Aplikacja konsolowa napisana w Javie implementująca algorytmy szeregowania zada
 ### Autor
 Bartłomiej Sereda  
 Uniwersytet Rzeszowski  
-Instytut Informatyki  
+Informatyka i Ekonometria
 Rok akademicki: 2024/2025
